@@ -39,7 +39,7 @@ try:
 
     csv = GitHubCSV(args.csv)
 
-    questions = csv.get_questions()[:20]
+    questions = csv.get_questions()
 
     print(f"Loaded {len(questions)} questions")
 
