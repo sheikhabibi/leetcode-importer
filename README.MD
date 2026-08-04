@@ -24,6 +24,8 @@ AI tools were used for:
 
 The implementation, testing, debugging, and integration of the components were done iteratively by the developer.
 
+---
+
 # ✨ Features
 
 ## 📂 Import from any CSV source
