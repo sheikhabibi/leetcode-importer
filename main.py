@@ -26,7 +26,7 @@ parser.add_argument(
 args = parser.parse_args()
 
 # Connect to LeetCode
-lc = LeetCodeClient()
+lc = LeetCodeClient() 
 lc.connect()
 
 try:
