@@ -196,7 +196,7 @@ Example:
 ```bash
 python main.py \
 --list TCS \
---csv https://raw.githubusercontent.com/example/problems.csv
+--csv https://raw.githubusercontent.com/snehasishroy/leetcode-companywise-interview-questions/refs/heads/master/tcs/all.csv
 ```
 
 ---
