@@ -12,6 +12,18 @@ Instead of manually opening hundreds of LeetCode problems and adding them one by
 
 ---
 
+## 🤖 Development Note
+
+This project was developed with the help of AI-assisted coding ("vibe coding") during the development process.
+
+AI tools were used for:
+- brainstorming architecture and workflow
+- debugging issues
+- exploring APIs and automation approaches
+- improving documentation
+
+The implementation, testing, debugging, and integration of the components were done iteratively by the developer.
+
 # ✨ Features
 
 ## 📂 Import from any CSV source
